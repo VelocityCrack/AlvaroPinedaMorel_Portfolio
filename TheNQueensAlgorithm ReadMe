@@ -1,0 +1,7 @@
+TheNQueensAlgorithm ReadMe
+
+In this Unity project you could find 10 different scenes. 1 through 9 are an ultra basic grasp of Unity movement and communication between GameObjects.
+
+A functional approximation of the N queens chess problem can be found in the 10th scene. It has been implemented an algorithm that solves the problem for "any" board size (up to the overflow of the variables).
+The main problem nowdays is the computational complexity of the problem, often linked to the P vs NP problem. 
+This algorithm complexity grows exponentially so it is not recommended trying to solve a board bigger than 35x35.

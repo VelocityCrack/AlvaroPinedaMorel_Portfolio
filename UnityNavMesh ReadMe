@@ -1,0 +1,9 @@
+UnityNavMesh ReadMe
+
+In this Unity project I have played a little with the NavMesh implemented in Unity. The main objective was to understand and use the NavMesh and all its features. 
+Links, areas, pathfinding or agent types are some of the subjects learnt.
+
+In addition, to learn about NPC logic (communication, director, behabiors, etc), I have created 3 different types of agents that interact between them and move trought the NavMesh: A worker, a thief and a worker.
+The worker just wanders and flees from the thief. 
+The thief tries to reach certain locations and hides if seen. 
+Last, the worker patrols the area and try to catch the thiefs.
